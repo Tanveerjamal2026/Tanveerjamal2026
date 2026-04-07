@@ -11,10 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Sc. in Computational Science** (Expected 2026)
+- 🎓 Pursuing **B.Tech in Computational Science** (Expected 2026)
 - 💻 Strong in **Data Structures & Algorithms**
 - 🔥 Solved **300+ problems** on LeetCode & HackerRank
-- ⭐ HackerRank **3-star Problem Solver**
 - 🛠️ Experience in **MERN Stack Development**
 - 📈 Passionate about building **scalable web applications**
 - 🤝 Love working in **team-based Agile environments**
@@ -58,7 +57,6 @@
 ### 🏆 Achievements
 
 - 🥇 Solved **300+ coding problems**
-- ⭐ HackerRank **3-star Problem Solving**
 - 🧠 Finalist in **University Hackathon (2024)**
 - 📜 Completed **Deloitte Data Analytics Simulation (2025)**
 
@@ -67,9 +65,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanveerjamal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanveerjamal2026&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanveerjamal&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanveerjamal2026&theme=tokyonight" />
 </p>
 
 ---

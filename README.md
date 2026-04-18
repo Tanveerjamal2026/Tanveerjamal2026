@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computational Science** (Expected 2026)
+- 🎓 Pursuing **B.Tech in Computer Science Engineering** (Expected 2026)
 - 💻 Strong in **Data Structures & Algorithms**
 - 🔥 Solved **300+ problems** on LeetCode & HackerRank
 - 🛠️ Experience in **MERN Stack Development**
